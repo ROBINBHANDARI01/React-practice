@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(81, 81, 81);
+}
+
+.root{
+  padding: 0;
+  margin: 0;
+}
+
+.Container img{
+  height: 15em;
+  border-radius: 50em;
+  
+}
+
+.Container{
+  display: inline-block;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.149);
+  width: 19em;
+  height: fit-content;
+  text-align: center;
+}
+
+h2{
+  margin-top: 5px;
+  font-weight: bolder;
+  margin-bottom: -1em;
+}
+
+.Login{
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(11, 213, 11);
+color: white;
+}
+
+.NotLogin{
+  padding: 5px;
+  text-align: center;
+background-color: rgb(213, 11, 11);
+color: white;
+}
+
+.details{
+  margin-top: 25px;
+}

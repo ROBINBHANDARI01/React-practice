@@ -1,0 +1,13 @@
+.greate{
+    border: 1px solid;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+h2{
+    margin-top: 0;
+    background-color: rgb(16, 210, 210);
+    padding: 12px;
+    border: 2px solid black;
+}
